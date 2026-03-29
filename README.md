@@ -6,7 +6,7 @@ Course: Btech Computer Science Core
 year: 1st year
 
 AI Stock Analysis Dashboard
-An interactive Web Application developed for CSA
+An interactive Web Application developed for CSA2001
 :AI/ML Project. This tool leverages MAchine Learning to forecast stock prices and provides Explainable AI (XAI) insights to help users understand which technical factors are driving the model's predictions.   
 
 Features:
